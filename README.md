@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tejkamaldarla
-- 👀 I’m interested in front end development
+- 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on reactjs jobs
 - 📫 How to reach me +91 8639002906
